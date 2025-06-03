@@ -21,12 +21,12 @@ And here is an example table with different column alignments.
 
 And here is an example responsive grid gallery by including images in a list.
 
-* ![Letter V](https://fakeimg.pl/400x400?text=V) 
-* ![Letter W](https://fakeimg.pl/400x400?text=W)
-* ![Letter X](https://fakeimg.pl/400x400?text=X)
-* ![Letter V](https://fakeimg.pl/400x400?text=V) 
-* ![Letter W](https://fakeimg.pl/400x400?text=W)
-* ![Letter X](https://fakeimg.pl/400x400?text=X)
+* ![Letter V](https://fakeimg.ryd.tools/400x400?text=V) 
+* ![Letter W](https://fakeimg.ryd.tools/400x400?text=W)
+* ![Letter X](https://fakeimg.ryd.tools/400x400?text=X)
+* ![Letter V](https://fakeimg.ryd.tools/400x400?text=V) 
+* ![Letter W](https://fakeimg.ryd.tools/400x400?text=W)
+* ![Letter X](https://fakeimg.ryd.tools/400x400?text=X)
 
 And finally, here is an example of tabs used to present several sections of information.
 
