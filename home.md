@@ -1,6 +1,8 @@
 ![](images/mountain-cropped.jpg ':class=header-tall-image-full-width')
 
-# Home
+# My Site
+
+## Create, Share and Collaborate
 
 Here is some sample **Markdown** content.  
 
